@@ -112,7 +112,7 @@ public class PostgresPollDataDAOCacheTest {
 
             lastDiff = currentDiff;
 
-            Thread.sleep(1);
+            Thread.sleep(5);
         }
     }
 
